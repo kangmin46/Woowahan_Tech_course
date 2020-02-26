@@ -30,9 +30,9 @@
 |-----|-----|-----|  
 |게시글 기능|[Article](https://github.com/kangmin46/jwp-blog)|[PR Review](https://github.com/woowacourse/jwp-blog/pull/30)|
 |회원 기능|[User](https://github.com/kangmin46/jwp-blog)|[PR Review](https://github.com/woowacourse/jwp-blog/pull/80)|
-|댓글 기능|[Comment](https://github.com/kangmin46/jwp-blog)|[PR Review](https://github.com/woowacourse/jwp-blog/pull/109)|
-|비동기 댓글)|[Comment-Ajax](https://github.com/kangmin46/jwp-blog)|[PR Review](https://github.com/woowacourse/jwp-blog/pull/199)|
-|미니 프로젝트(유튜브 클론 코딩)|[Lotto-web](https://github.com/kangmin46/java-lotto-1/tree/kangmin46)|[PR Review](https://github.com/woowacourse/java-lotto/pull/76)|
+|댓글 기능|[Comment](https://github.com/kangmin46/jwp-blog)|[PR Review](https://github.com/woowacourse/jwp-blog/pull/109)|  
+|비동기 댓글|[Comment-Ajax](https://github.com/kangmin46/jwp-blog)|[PR Review](https://github.com/woowacourse/jwp-blog/pull/199)| 
+|미니 프로젝트|[Youtube clone](https://github.com/kangmin46/miniprojects-2019/tree/EDD)|[PR Review](https://github.com/woowacourse/miniprojects-2019/pull/33)|
 
 ## LEVEL 3 웹 백엔드에 깊이를 더하는 단계
 
@@ -41,5 +41,18 @@
 * JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
 * 대규모 서비스를 위한 시스템 아키텍처 설계 및 대용량 데이터를 처리한다.
 * 레거시 코드를 점진적으로 리팩토링하고 애플리케이션 설계 역량을 높인다.
+
+|Mission|Code|Review|  
+|-----|-----|-----|  
+|WAS 구현|[WAS](https://github.com/kangmin46/jwp-was/tree/step2)|[PR Review](https://github.com/woowacourse/jwp-was/pull/80)|
+|MVC 구현|[MVC](https://github.com/kangmin46/jwp-mvc/tree/kangmin46)|[PR Review](https://github.com/woowacourse/jwp-mvc/pull/80)|
+|JDBC 구현|[Youtube clone](https://github.com/kangmin46/jwp-jdbc/tree/kangmin46)|[PR Review](https://github.com/woowacourse/jwp-jdbc/pull/31)|
+|DI 구현|[Youtube clone](https://github.com/kangmin46/jwp-di/tree/step-2)|[PR Review](https://github.com/woowacourse/jwp-di/pull/75)|
+
+## LEVEL 4  팀 프로젝트
+
+* 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
+
+* [커피 전문점 O2O](https://github.com/EDD-season2)
 
 
