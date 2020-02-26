@@ -46,8 +46,8 @@
 |-----|-----|-----|  
 |WAS 구현|[WAS](https://github.com/kangmin46/jwp-was/tree/step2)|[PR Review](https://github.com/woowacourse/jwp-was/pull/80)|
 |MVC 구현|[MVC](https://github.com/kangmin46/jwp-mvc/tree/kangmin46)|[PR Review](https://github.com/woowacourse/jwp-mvc/pull/80)|
-|JDBC 구현|[Youtube clone](https://github.com/kangmin46/jwp-jdbc/tree/kangmin46)|[PR Review](https://github.com/woowacourse/jwp-jdbc/pull/31)|
-|DI 구현|[Youtube clone](https://github.com/kangmin46/jwp-di/tree/step-2)|[PR Review](https://github.com/woowacourse/jwp-di/pull/75)|
+|JDBC 구현|[JDBC](https://github.com/kangmin46/jwp-jdbc/tree/kangmin46)|[PR Review](https://github.com/woowacourse/jwp-jdbc/pull/31)|
+|DI 구현|[DI](https://github.com/kangmin46/jwp-di/tree/step-2)|[PR Review](https://github.com/woowacourse/jwp-di/pull/75)|
 
 ## LEVEL 4  팀 프로젝트
 
