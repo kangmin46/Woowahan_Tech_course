@@ -42,6 +42,7 @@
 * 대규모 서비스를 위한 시스템 아키텍처 설계 및 대용량 데이터를 처리한다.
 * 레거시 코드를 점진적으로 리팩토링하고 애플리케이션 설계 역량을 높인다.
 
+## 레벨 3 미션
 |Mission|Code|Review|  
 |-----|-----|-----|  
 |WAS 구현|[WAS](https://github.com/kangmin46/jwp-was/tree/step2)|[PR Review](https://github.com/woowacourse/jwp-was/pull/80)|
